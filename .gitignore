@@ -1,0 +1,12 @@
+*.pbf
+*.png
+*.sqlite
+*.jpeg
+**/metadata.json
+**/maplibre-native/
+!styles/data/openmaptiles-fonts/fonts/*.pbf
+*.pro.user*
+**/.qtcreator/
+data/coastline/water_polygons.shp
+
+**/build/

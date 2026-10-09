@@ -1,0 +1,15 @@
+[submodule "styles/osm-bright-gl-style"]
+	path = styles/osm-bright-gl-style
+	url = https://github.com/openmaptiles/osm-bright-gl-style
+[submodule "styles/dark-matter-gl-style"]
+	path = styles/dark-matter-gl-style
+	url = https://github.com/openmaptiles/dark-matter-gl-style
+[submodule "styles/fiord-color-gl-style"]
+	path = styles/fiord-color-gl-style
+	url = https://github.com/openmaptiles/fiord-color-gl-style
+[submodule "styles/positron-gl-style"]
+	path = styles/positron-gl-style
+	url = https://github.com/openmaptiles/positron-gl-style
+[submodule "styles/data/openmaptiles-fonts"]
+	path = styles/data/openmaptiles-fonts
+	url = https://github.com/kylebarron/openmaptiles-fonts.git
