@@ -7,6 +7,5 @@
 !styles/data/openmaptiles-fonts/fonts/*.pbf
 *.pro.user*
 **/.qtcreator/
-data/coastline/water_polygons.shp
 
 **/build/
